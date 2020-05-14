@@ -27,4 +27,6 @@ Day12 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535
 
 Day13 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/
 
+Day14 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/
+
 
