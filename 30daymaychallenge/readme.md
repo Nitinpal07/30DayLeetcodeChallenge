@@ -58,3 +58,6 @@ Day27 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537
 Day28 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/
 
 Day29 - https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/
+
+Day30 - https://leetcode.com/explore/featured/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/
+
